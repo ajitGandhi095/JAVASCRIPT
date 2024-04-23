@@ -1,0 +1,81 @@
+Bootstrap
+==============
+Bootstrap layout,
+color,
+breakpoints
+UTILITIES
+COMPONENTS
+
+Build project
+
+======================================================================================
+                                   JAVASCRIPT
+========================================================================================
+
+=> Javascript is called the language of web. It is the programming language for web developement.
+
+=> JS is used for functioning of the website.
+=> JS is actually maintained by Ecma script. We are currently  in ES13 but popular is ES6.
+=> JS files used extension .js.
+=> You  can add internal JAVASCRIPT or External js.
+=> For Internal JS ==> you can write JS inside script tag.
+=> console is one of developer tools features, used for debug.
+=> Java & Javascript is not related at all. 
+=> 1994 ==> Livescript ==> Javascript becoz java is popular.
+=> If you can write extenal Javascript you add add <script src="file path"></script>
+=> if you can write internal javascript you can write script at the end of html.
+
+1) How to write comments in javascript?
+
+=> comments are used for batter understanding & readability.
+
+-> There are 2 types of comments in Javascript:-
+    a) single line --
+    //comments
+
+    b) Multi line --
+    /* comments */
+
+2) What are essential to know for a programming language?
+
+a. variable
+b. data types
+c. operators
+d. controls
+e. loops
+
+a) What is a variable ? how to declare one?
+
+=> Variable are used to store the data . In js, there are 3 ways to declare a variable:-
+1. var variable-name
+2. let variable-name
+3. const variable-name
+
+3) What are the basic window methods?
+-> There are 3 basic window methods :-
+a) alert() :- Used to print some info as an alert.
+b) prompt() :- Used to get input from user.
+c) confirm() :-
+
+4)What are the different data types in javascript?
+
+=> Data Types define what type the data belongs.There are primarily 2 types:-
+a) Primitive data types:-
+----------------------------
+-> Primitive data types are used to define any data. They are
+   number, string, boolean, null, undefined
+
+b) Non-primitine data types:-
+--------------------------------
+->Non-primitine data types use Primitive data type. They are also called reference data types arrays, objects, functions.
+
+-> Basically JS used duck typing or dynamic data typing means you can't fix one data type for onr variable.
+
+-> To know the data type of a variable, you can use operator "typeof()"
+
+5)Explain 'number' data type.
+-> any numerical values in JS, it automatically assigns number data type.Even decimals are also considered as number data types.
+
+e.toString(2)--> base 2  --> binary number
+
+one base to another base use (toString).
